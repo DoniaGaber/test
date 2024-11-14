@@ -1,0 +1,13 @@
+- git initial ( first time only)
+- git add ( followed by file name)
+- git add .    => to track al lfiles
+- git commit -m "Commit text"
+
+- git restore --staged "FileName"    => to remove file from being tracked ! 
+- git status  => to check project file status
+- git clone (origin url) ==> clone for project
+- git merge (branch name)
+- git pull 
+- git config --global user.name
+- git config --global user.email
+- git checkout -b "new branch name"
